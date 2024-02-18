@@ -1,1 +1,2 @@
 Variant no. 7
+changes for github
